@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+1. Screens above 768px
+2. ![ice-d-1](https://github.com/Richter-Anto/react-CSS-responsive-shakeHeaven-app/assets/99138380/d552f9e0-be06-433f-8dda-570d134bf09f)
+3. ![ice-d-2](https://github.com/Richter-Anto/react-CSS-responsive-shakeHeaven-app/assets/99138380/8078dedf-6d67-4249-8949-c97a210c9b60)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+4. Screens above 320px
+5. ![ice-m-1](https://github.com/Richter-Anto/react-CSS-responsive-shakeHeaven-app/assets/99138380/b02f0dcd-dfbd-4aab-81e3-eef3731519b4)
+6. ![ice-m-2](https://github.com/Richter-Anto/react-CSS-responsive-shakeHeaven-app/assets/99138380/9cf64f82-cbc3-480c-954f-7f14e210c449)
+7. ![ice-m-3](https://github.com/Richter-Anto/react-CSS-responsive-shakeHeaven-app/assets/99138380/feb4e99c-5877-4e96-8747-0159531d9e64)
 
-## Available Scripts
+8. Screens below 320px
+9. ![ice-s-1](https://github.com/Richter-Anto/react-CSS-responsive-shakeHeaven-app/assets/99138380/a87b670e-373a-4fd7-a2e5-40d82bb02030)
+10. ![ice-s-2](https://github.com/Richter-Anto/react-CSS-responsive-shakeHeaven-app/assets/99138380/1bc00ee0-69d4-47ae-aed4-77a9defccfe4)
+11. ![ice-s-3](https://github.com/Richter-Anto/react-CSS-responsive-shakeHeaven-app/assets/99138380/89b96460-e408-407e-b1f8-42af2ccf28e2)
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
