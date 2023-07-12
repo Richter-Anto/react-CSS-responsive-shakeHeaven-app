@@ -1,0 +1,148 @@
+.landingPage {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+.landingPageArt {
+  width: 82%;
+}
+.shakeItUpHeading {
+  font-size: 120px;
+  color: #303030;
+}
+
+.shakeItUpPara {
+  font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  color: #303030;
+}
+
+.OrderNowBtn {
+  font-size: 14px;
+  background-color: #ff5d56;
+  border-radius: 10px;
+  border-color: #ff5d56;
+  box-shadow: none;
+  color: white;
+  font-weight: 600;
+}
+
+.shakeHeavenspan {
+  color: #ff5d56;
+}
+.shakeHeavenPara {
+  font-size: 16px;
+  color: #5d5d5d;
+}
+.shakeHeavenh6 {
+  font-size: 16px;
+  margin-top: 40px;
+  color: #303030;
+}
+
+@media only screen and (min-width: 769px) {
+  .shakeItUpArt {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  .shakeHeavenArt {
+    display: flex;
+  }
+  .shakeItUpLeftDiv {
+    display: flex;
+    align-items: center;
+    width: 50%;
+  }
+  .shakeItUpRightDiv {
+    width: 53%;
+  }
+  .shakeItUpLeftArt {
+    width: 85%;
+    height: 80%;
+  }
+
+  .shakeHeavenLeftDiv {
+    width: 50%;
+    height: 450px;
+  }
+
+  .shakeHeavenRightDiv {
+    width: 50%;
+    display: flex;
+    align-items: center;
+  }
+  .shakeHeavenRightArt {
+    width: 86.7%;
+  }
+
+  .OrderNowBtn {
+    width: 41%;
+    height: 11%;
+  }
+
+  .shakeHeavenh1 {
+    font-size: 42px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+  }
+  .shakeHeavenLeftDiv1{
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .shakeItUpHeading {
+    text-align: center;
+  }
+  .shakeItUpPara {
+    text-align: center;
+  }
+  .shakeHeavenh1 {
+    font-size: 42px;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+  .shakeItUpRightDiv img {
+    width: 100%;
+    margin-top: 40px;
+  }
+  .landingPageArt {
+    width: 73.9%;
+  }
+  .OrderNowBtn {
+    width: 40.7%;
+    height: 60px;
+    margin-left: 30%;
+  }
+  .shakeHeavenPara{
+    text-align: center;
+  }
+  .shakeHeavenh6 {
+    text-align: center;
+  }
+  .shakeHeavenLeftDiv{
+    display: none;
+  }
+  .shakeHeavenLeftDiv1{
+    margin-top: 40px;
+    
+  }
+  .shakeHeavenLeftDiv1 img{
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+    .shakeItUpHeading {
+        font-size: 60px;
+    }
+    .OrderNowBtn {
+        width: 200px;
+        margin-left: 10%;
+    }
+}
